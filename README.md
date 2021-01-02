@@ -1,0 +1,2 @@
+# Music-Tetrchord-Species-Visualization
+This code provides tools for visualization of tetrachord and pentachords species in Iranian Classical music based on the Performance and the current Theories, and also provides a framework for theorizing and comparing the contemporary theories
